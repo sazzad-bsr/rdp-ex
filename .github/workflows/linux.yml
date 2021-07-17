@@ -1,4 +1,4 @@
-name: Oshekher
+name: linux
 
 on: workflow_dispatch
 
